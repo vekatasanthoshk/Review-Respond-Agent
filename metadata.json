@@ -1,0 +1,5 @@
+{
+  "name": "Review Reply Agent",
+  "description": "An AI-powered customer success agent that drafts professional, empathetic responses to customer reviews.",
+  "requestFramePermissions": []
+}
